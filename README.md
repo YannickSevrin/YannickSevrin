@@ -4,7 +4,7 @@
 
 ## 🧠 About Me
 
-🎓 Developer passionate about automation  
+🎓 Just a Developper
 🌍 Based in 🇫🇷 France (Réunion Island 🇷🇪)  
 💡 I enjoy building clean, scalable tools and automating repetitive tasks  
 🌱 Currently learning: ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
