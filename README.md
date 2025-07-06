@@ -4,15 +4,17 @@
 
 ## 🧠 About Me
 
-🎓 Just a Developper
+🎓 Just a developer — always learning  
 🌍 Based in 🇫🇷 France (Réunion Island 🇷🇪)  
-💡 I enjoy building clean, scalable tools and automating repetitive tasks  
-🌱 Currently learning: ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+⚙️ Passionate about automation and clean, scalable development  
+💡 I love building tools that solve real problems and remove repetitive tasks  
+🚀 Currently improving my skills in [Next.js](https://nextjs.org/) and modern web app architectures
 
 ---
 
 ## 🚀 My Favorite Tech Stacks
 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
