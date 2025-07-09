@@ -56,8 +56,8 @@ Right now, I’m deep-diving into:
 
 ## 📈 GitHub Stats
 
-![Yannick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YannickSevrin&show_icons=true&theme=monokai&count_private=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannickSevrin&layout=compact&theme=monokai&hide_border=true)
+![Yannick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YannickSevrin&show_icons=true&theme=darcula&count_private=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannickSevrin&layout=compact&theme=darcula&hide_border=true)
 
 ---
 
