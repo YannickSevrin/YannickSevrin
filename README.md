@@ -28,6 +28,11 @@ Right now, I’m deep-diving into:
 > Goal: build a polished, responsive frontend connected to a real backend  
 > 🛠️ Work in progress: UI polishing, CMS integration, deployment pipeline  
 
+### 🐳 [`wordpress-docker-starter`](https://github.com/YannickSevrin/wordpress-docker-starter)  
+> Minimal Docker-based **WordPress starter template** for local development  
+> Clean setup using WP-CLI, MySQL, phpMyAdmin, and custom PHP configs  
+> 📦 Stack: Docker · WordPress · MySQL · WP-CLI · phpMyAdmin
+
 ---
 
 ## 🚀 Tech I Love Working With
