@@ -23,7 +23,7 @@ Right now, I’m deep-diving into:
 > Focus on clean architecture, request validation, resourceful routing, and API-first mindset  
 > 🧰 Stack: Laravel · Sanctum · MySQL · API Resource · Eloquent  
 
-### 💼 [`freelance-showcase-demo`](https://github.com/YannickSevrin/freelance-showcase-demo) _(WIP)_
+### 💼 [`freelance-showcase-demo`](https://github.com/YannickSevrin/freelance-showcase-demo)
 > Demo site to showcase freelance work and personal branding  
 > Goal: build a polished, responsive frontend connected to a real backend  
 > 🛠️ Work in progress: UI polishing, CMS integration, deployment pipeline  
