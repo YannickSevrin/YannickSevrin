@@ -4,7 +4,7 @@
 
 ### 💡 Code, curiosity, and coffee.
 
-I'm a **junior developer** based on the sunny island of **Réunion 🇷🇪**, building my way through real-world challenges one project at a time. I’m passionate about **automation**, **clean code**, and creating tools that **solve real problems** — especially those that make repetitive tasks disappear.
+I'm a **developer** based on **Réunion Island 🇷🇪**, building my way through real-world challenges one project at a time. I’m passionate about **automation**, **clean code**, and creating tools that **solve real problems** — especially those that make repetitive tasks disappear.
 
 Right now, I’m deep-diving into:
 - 🌐 Full-stack web development (mostly with **Next.js** & **Laravel**)
